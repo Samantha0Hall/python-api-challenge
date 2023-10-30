@@ -25,7 +25,7 @@ Next, create a series of scatter plots. Be sure to include the linear regression
 ---------------------------------
 ## Part 2: VacationPy
 
-Your main tasks will be to use the Geoapify API and the geoViews Python library and employ your Python skills to create map visualizations.
+### Your main tasks will be to use the Geoapify API and the geoViews Python library and employ your Python skills to create map visualizations.
 
 To succeed on this deliverable of the assignment, open the VacationPy.ipynb starter code and complete the following steps:
 
